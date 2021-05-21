@@ -1,0 +1,9 @@
+I've tried to keep codes concise, you need not know all concepts at once
+Reading JSON Files
+Reading CSV Files
+Some basic Seaborn concepts
+Resource:
+I've Followed the Playlist of Machine learning by Krish Naik as the Resource
+Pandas and Numpy and Basic Stats is added to the prereq Folder 
+Link to The Youtube Playlist:
+https://www.youtube.com/watch?v=tW1BWtQRZ2M&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=9
