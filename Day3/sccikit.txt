@@ -1,3 +1,5 @@
 Scikit Learn covered in great detail
 The Tutorial I've referred
 https://www.youtube.com/watch?v=pqNCD_5r0IU
+The Second py covers
+Suport vector machine
